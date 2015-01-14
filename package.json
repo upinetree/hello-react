@@ -1,0 +1,13 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "Study React.js",
+  "scripts": {
+    "jsx": "jsx src/ public/",
+    "jsx-watch": "jsx --watch src/ public/"
+  },
+  "devDependencies": {
+    "react-tools": "^0.12.2"
+  },
+  "private": true
+}
