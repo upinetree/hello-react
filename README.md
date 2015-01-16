@@ -23,3 +23,6 @@ Or if you want to watch files:
 npm run jsx-watch
 ```
 
+## :blue_book: トリセツ
+
+[Hello React // Speaker Deck](https://speakerdeck.com/upinetree/hello-react)
