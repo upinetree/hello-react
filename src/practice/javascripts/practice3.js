@@ -50,6 +50,6 @@ var Comments = React.createClass({
 });
 
 React.render(
-  <Comments url="https://api.github.com/repos/upinetree/hello-react/issues/comments" pollInterval={5000} />,
+  <Comments url="https://api.github.com/repos/upinetree/hello-react/issues/comments" pollInterval={10000} />,
   document.getElementById("comments")
 );
