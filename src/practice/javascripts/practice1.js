@@ -8,7 +8,7 @@ var Hello = React.createClass({
 
 React.render(<Hello name="React" />, document.getElementById("hello"));
 
-// var JsxErrorOccurs= React.createClass({
+// var JsxErrorOccurs = React.createClass({
 //   render: function() {
 //     return (
 //       <div>XJS elements</div>
