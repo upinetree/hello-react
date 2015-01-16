@@ -1,5 +1,10 @@
 # Hello React.js
 
+## Environment
+
+* node: v0.10.32
+* bower: 1.3.12
+
 ## Installation
 
 ```
